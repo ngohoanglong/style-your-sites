@@ -1,0 +1,41 @@
+html {
+  filter: invert(1);
+}
+
+.r-4gszlv ,video,img{
+  filter: invert(1);
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+  background: #eadfd4;
+  }
+body *::-webkit-scrollbar-track {
+  background: transparent;
+
+}
+body ::-webkit-scrollbar-thumb {
+  background: transparent;
+    border-radius: 10px;
+    
+}
+::-webkit-scrollbar-thumb {
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;
+  min-height: 200px;
+  background: transparent;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar {
+   transform: scale(2);
+}
+
+div.css-1dbjc4n.r-1awozwy.r-16y2uox.r-1wbh5a2.r-1777fci {
+  filter: invert(1);
+}
+
+.css-9pa8cd {
+  filter: invert(1);
+}
